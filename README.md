@@ -1,7 +1,7 @@
 
 ## Phonebook App with Laravel 5.8 PHP Framework and Bootstrap 4
 
-##How to install:
+How to install:
 * [Step 1: Get the code](#step1)
 * [Step 2: Use Composer to install dependencies](#step2)
 * [Step 3: Create database](#step4)
